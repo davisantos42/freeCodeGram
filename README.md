@@ -13,3 +13,7 @@
 ## Day 3
 
 <p> I modify my views quite a bit, implemented a way to add posts and display the posts and their count in the profile page. </p>
+
+## Day 4
+
+<p> I added some editing functionality alongside some modifications in my views and required the intervention/image dependency to manipulate images better. </p>
