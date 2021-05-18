@@ -10,7 +10,7 @@
             <div class="d-flex align-items-center">
                 <div class="pr-3">
                     <img style="max-width:40px;" class=" rounded-circle w-100"
-                        src="/storage/{{ $post->user->profile->image }}" alt="">
+                        src="{{ $post->user->profile->profileImage() }}" alt="">
                 </div>
                 <div class="">
                     <div class="font-weight-bold"><a href="/profile/{{$post->user->id}}"><span

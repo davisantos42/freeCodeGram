@@ -17,3 +17,7 @@
 ## Day 4
 
 <p> I added some editing functionality alongside some modifications in my views and required the intervention/image dependency to manipulate images better. </p>
+
+## Day 5
+
+<p> There's now some following functionality and I started working more on the javascript front-end aspect of this project using Vue.js. There was also some modifications made to the profiles controller, profile and user models, and my main view (index.blade.php) and my post view (show.blade.php). </p>
