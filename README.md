@@ -21,3 +21,7 @@
 ## Day 5
 
 <p> There's now some following functionality and I started working more on the javascript front-end aspect of this project using Vue.js. There was also some modifications made to the profiles controller, profile and user models, and my main view (index.blade.php) and my post view (show.blade.php). </p>
+
+## Day 6
+
+<p> There was some refactoring in my code to allow caching and now we have it for the profile. I also added an automatic email to every new user who register in the website. </p>
